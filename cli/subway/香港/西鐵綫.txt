@@ -1,0 +1,14 @@
+{{BS5||uABZld|uBHFq|uABZrd||||||O3=HUB81}}
+{{BS5|TRAM|uLUECKE|hWKBHFa|uLUECKE||37 min|[[屯門站 (西鐵綫)|'''屯門''']] {{hk-mtr icon|輕鐵}}||[[屯門河]]|O3=HUB83}}
+{{BS5|TRAM||hBHF|uBHFABZld|uCONTl|35 min|[[兆康站 (西鐵綫)|'''兆康''']] {{hk-mtr icon|輕鐵}}|O3=HUB84|O4=HUB82}}
+{{BS5||uLUECKE|ehBHF||||[[洪水橋站 (重鐵)|洪水橋]]（建議中）|}}
+{{BS5|TRAM|uLUECKE|hBHF|uBHF||30 min|[[天水圍站 (西鐵綫)|'''天水圍''']] {{hk-mtr icon|輕鐵}}|O3=HUB84|O4=HUB82}}
+{{BS5||uLUECKE|hBHF|||27 min|[[朗屏站|朗屏]]|||}}
+{{BS5|TRAM|uKBHFe|hBHF|||25 min|[[元朗站 (西鐵綫)|'''元朗''']] {{hk-mtr icon|輕鐵}}|O2=HUB84|O3=HUB82}}
+{{BS5|||hCPICl|hKBHFe||21 min|[[錦上路站|錦上路]]||O4=exCPICre}}
+{{BS5||BOOT|tBHF|||15 min|[[荃灣西站|荃灣西]]||[[荃灣碼頭]]}}
+{{BS5||utCONTr|mtKRZt|utBHFq|utSTRlg||||{{RoutemapRoute|Licon=l|[[荃灣綫]]往[[荃灣站|荃灣]]|enclosed=no|}}|O4=HUB81}}
+{{BS5|uCONTr|uSTRlg|tBHF||uLUECKE|11 min|[[美孚站|'''美孚''']] {{hk-mtr icon|荃}}||{{RoutemapRoute|Licon=l|[[東涌綫]]往[[東涌站 (東涌綫)|東涌]]|enclosed=no|}}|O3=HUB84|O4=HUB61}}
+{{BS5||exLDER|tBHF|BOOT|uLUECKE|5 min|[[柯士甸站|柯士甸]]||[[西九龍總站]]、[[中國客運碼頭]]}}
+{{BS5||utCONTr|mtKRZt|utBHFq|utSTRrf||[[尖沙咀站|尖沙咀]] {{hk-mtr icon|荃}}||{{RoutemapRoute|Licon=l|[[荃灣綫]]往[[中環站|中環]]|enclosed=no|}}|O4=HUB01}}
+{{BS5|||tBHF|||2 min|[[尖東站|尖東]]|||O3=HUB01|O4=BLrf}}

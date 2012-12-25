@@ -1,0 +1,18 @@
+{{BS5|||uhKBHFa|||26 min|[[柴灣站|柴灣]]|tw=200px}}
+{{BS5|||uBHF|uTUNNELa||24 min|[[杏花邨站|杏花邨]]||}}
+{{BS5|||utBHF|DDTRAM||22 min|[[筲箕灣站|筲箕灣]]|[[香港電車|電車總站]]}}
+{{BS5||BOOT|utBHF|||20 min|[[西灣河站|西灣河]]|[[西灣河碼頭]]}}
+{{BS5|||utBHF|||18 min|[[太古站|太古]]||}}
+{{BS5|||utBHF|utBHF||16 min|[[鰂魚涌站|'''鰂魚涌''']] {{hk-mtr icon|將}}|O3=HUB84|O4=HUB82}}
+{{BS5|||utBHF|||12 min|[[炮台山站|炮台山]]||}}
+{{BS5|||utBHF|||10 min|[[天后站|天后]]||}}
+{{BS5|||utBHF|DDTRAM||8 min|[[銅鑼灣站|銅鑼灣]]|[[香港電車|電車總站]]}}
+{{BS5|extCONTg||utBHF|||6 min|[[灣仔站|灣仔]]|&lt;div style{{=}}"float:right">{{routemapRoute|Licon=U|[[南北綫 (香港)|南北綫]]往[[羅湖站 (香港)|羅湖]]／[[落馬洲站|落馬洲]]|enclosed=no|}}&lt;/div>}}
+{{BS5|extKBHFe|utCPICl|utCPICr|uextKBHFa|FUNI|4 min|[[金鐘站|'''金鐘''']] {{hk-mtr icon|荃灣}}|[[花園道纜車站|山頂纜車站]]|O1=HUB84|O2=HUB25|O3=HUB25|O4=HUB82}}
+{{BS5|BOOT|utKBHFe|utBHF|FUNI||2 min|[[中環站|'''中環''']] {{hk-mtr icon|荃}}|[[中環碼頭]]及[[花園道纜車站|山頂纜車站]]|O2=HUB84|O3=HUB82}}
+{{BS5|utCONTr|utKBHFr|utSTR||||[[香港站|'''香港''']] {{hk-mtr icon|東涌}} {{hk-mtr icon|機}}|&lt;div style{{=}}"float:right">{{RoutemapRoute|Licon=L|[[東涌綫]]往[[東涌站 (東涌綫)|東涌]]|enclosed=no|}}&lt;/div>|O2=HUB81}}
+{{BS5|utCONTr|utKBHFr|utSTR||||||{{RoutemapRoute|Licon=L|[[機場快綫]]往[[博覽館站|博覽館]]|enclosed=no|}}|O2=HUB83}}
+{{BS5||BOOT|utKBHFxa|DDTRAM||0 min|[[上環站|上環]]|[[港澳碼頭 (香港)|港澳碼頭]]及[[香港電車|電車總站]]}}
+{{BS5|||uextBHF||||[[西營盤站|西營盤]]||}}
+{{BS5||DDTRAM|uextBHF|uextKBHFa|||[[香港大學站|'''香港大學''']] {{hk-mtr icon|南港島西}}|[[香港電車|電車總站]]|O3=HUB84|O4=HUB82}}
+{{BS5||DDTRAM|uextKBHFe||||[[堅尼地城站|堅尼地城]]|[[香港電車|電車總站]]}}

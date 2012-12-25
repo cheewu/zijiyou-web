@@ -1,0 +1,14 @@
+{{BS5|||utBHF|||23 min|[[藍田站|藍田]]||}}
+{{BS5|||uhBHF|||21 min|[[觀塘站|觀塘]]||}}
+{{BS5|||uhBHF|||19 min|[[牛頭角站|牛頭角]]||}}
+{{BS5|||uhBHF|uBRÜCKEe||17 min|[[九龍灣站|九龍灣]]||}}
+{{BS5|||utBHF|||15 min|[[彩虹站|彩虹]]||}}
+{{BS5||extBHF|utBHF||exLUECKE|13 min|[[鑽石山站|'''鑽石山''']] {{hk-mtr icon|東西}}|O2=HUB84|O3=HUB82}}
+{{BS5|extCONTr|extSTRrf|utBHF||exLUECKE|11 min|[[黃大仙站|黃大仙]]||{{routemapRoute|Licon=L|[[東西綫]]往[[烏溪沙站|烏溪沙]]|enclosed=no|}}}}
+{{BS5|||utBHF||exLUECKE|9 min|[[樂富站|樂富]]||}}
+{{BS5|||utBHF||exLUECKE|7 min|[[九龍塘站|'''九龍塘''']] {{hk-mtr icon|東}}|O2=HUB63|O3=HUB82}}
+{{BS5|CONTr|BHFq|umtKRZ|CONTl|exLUECKE||||{{routemapRoute|Licon=L|Ricon=R|[[東鐵綫]]往[[羅湖站 (香港)|羅湖]]／[[落馬洲站|落馬洲]]及[[紅磡站|紅磡]]|enclosed=no|}}|O2=HUB83}}
+{{BS5|||utBHF||exLUECKE|5 min|[[石硤尾站|石硤尾]]|}}
+{{BS5||utBHF|utKBHFxe||exLUECKE|0 min|[[油麻地站|'''油麻地''']] {{hk-mtr icon|荃}}|O2=HUB84|O3=HUB82}}
+{{BS5||extCONTr|uextBHF|extSTRq|extSTRrf||[[何文田站|'''何文田''']] {{hk-mtr icon|東西}}|{{routemapRoute|Licon=L|[[東西綫]]往[[屯門站 (西鐵綫)|屯門]]|enclosed=no|}}|O3=extBHFq}}
+{{BS5|||uextKBHFe|BOOT|||[[黃埔站 (香港)|黃埔]]||[[紅磡碼頭]]}}

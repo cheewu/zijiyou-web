@@ -1,0 +1,16 @@
+{{BS5|||uBHF|uSTR||32 min|[[荃灣站|荃灣]]||}}
+{{BS5|||utBHF|||30 min|[[大窩口站|大窩口]]||}}
+{{BS5|||uhBHF|||27.5 min|[[葵興站|葵興]]||}}
+{{BS5|||uhBHF|||25.5 min|[[葵芳站|葵芳]]||}}
+{{BS5|uLUECKE|tSTRrg|umtKRZt|tBHFq|tCONTl||||{{RoutemapRoute||Ricon=R|[[西鐵綫]]往[[屯門站 (西鐵綫)|屯門]]|enclosed=no}}|O4=HUB81}} 
+{{BS5|uLUECKE|LUECKE|utBHF|HUB61||20 min|[[美孚站|'''美孚''']] {{hk-mtr icon|西}}|O3=HUB84}}
+{{BS5|uLUECKE|LUECKE|utBHF|||18 min|[[荔枝角站|荔枝角]]||}}
+{{BS5|uLUECKE|LUECKE|utBHF|||16.5 min|[[長沙灣站|長沙灣]]||}}
+{{BS5|uLUECKE|LUECKE|utBHF|||14.5 min|[[深水埗站|深水埗]]||}}
+{{BS5|uLUECKE|LUECKE|utBHF|utKBHFxe||9 min|[[油麻地站|'''油麻地''']] {{hk-mtr icon|觀}}|O3=HUB84|O4=HUB82}}
+{{BS5|uLUECKE|LUECKE|utBHF|||7 min|[[佐敦站|佐敦]]||}}
+{{BS5|uLUECKE|LUECKE|utBHF|BLlg||5.5 min|[[尖沙咀站|尖沙咀]]|||O3=HUB01}}
+{{BS5|uLUECKE|tSTRlf|umtKRZt|tBHFq|tCONTl||[[尖東站|尖東]] {{hk-mtr icon|西}}||{{RoutemapRoute|Ricon=R||[[西鐵綫]]往[[紅磡站|紅磡]]|enclosed=no}}|O4=HUB01}}
+{{BS5|uLUECKE|BOOT|utKBHFe|utBHF|FUNI|0 min|[[中環站|'''中環''']] {{hk-mtr icon|港}}|[[花園道纜車站|山頂纜車站]]及[[中環碼頭]]|O3=HUB84|O4=HUB82}}
+{{BS5|utABZlf|utSTRq|utKBHFr||||[[香港站|'''香港''']] {{hk-mtr icon|東涌}} {{hk-mtr icon|機}}||{{RoutemapRoute|Licon=L|[[東涌綫]]往[[東涌站 (東涌綫)|東涌]]|enclosed=no|}}|O3=HUB81}}
+{{BS5|utSTRlf|utSTRq|utKBHFr||||||{{RoutemapRoute|Licon=L|[[機場快綫]]往[[博覽館站|博覽館]]|enclosed=no|}}|O3=HUB83}}

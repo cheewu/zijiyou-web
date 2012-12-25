@@ -1,0 +1,170 @@
+
+.fr {
+	float: right;
+}
+.hide {
+	display: none;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+/*pagin&&pagin-m*/
+.pagin a,.pagin span {
+	float: left;
+	height: 20px;
+	padding: 3px 10px;
+	border: 1px solid #ccc;
+	margin-left: 2px;
+	font-family: arial;
+	line-height: 20px;
+	font-size: 14px;
+	overflow: hidden;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.pagin .text,.pagin .current {
+	border: none;
+	padding: 4px 11px;
+}
+
+.pagin a:link,.pagin a:visited {
+	color: #005aa0;
+	text-decoration: none;
+}
+
+.pagin a:hover,.pagin a:active,.pagin a:visited {
+	background: #005aa0;
+	color: #fff;
+	text-decoration: none;
+}
+
+.pagin .current,.pagin .current:link,.pagin .current:visited {
+	color: #f60;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.pagin b {
+	dispaly: block;
+	position: absolute;
+	top: 9px;
+	width: 5px;
+	height: 9px;
+	background-image: url(/images/bg_hotsale.gif);
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.pagin .prev,.pagin .next,.pagin .prev-disabled,.pagin .next-disabled {
+	position: relative;
+	padding-top: 5px;
+	height: 18px;
+	line-height: 18px;
+}
+
+.pagin .prev-disabled,.pagin .next-disabled {
+	color: #ccc;
+	cursor: default;
+}
+
+.pagin .prev,.pagin .prev-disabled {
+	padding-left: 12px;
+}
+
+.pagin .prev b {
+	left: 3px;
+	background-position: -68px -608px;
+}
+
+.pagin .prev-disabled b {
+	left: 3px;
+	background-position: -80px -608px;
+}
+
+.pagin .next,.pagin .next-disabled {
+	padding-right: 12px;
+}
+
+.pagin .next b {
+	right: 3px;
+	background-position: -62px -608px;
+}
+
+.pagin .next-disabled b {
+	right: 3px;
+	background-position: -74px -608px;
+}
+
+.pagin-m a,.pagin-m span {
+	height: 14px;
+	line-height: 14px;
+	font-size: 12px;
+}
+
+.pagin-m b {
+	top: 5px;
+}
+
+.pagin-m .prev,.pagin-m .next,.pagin-m .prev-disabled,.pagin-m .next-disabled
+	{
+	padding-top: 3px;
+	height: 14px;
+	line-height: 14px;
+	*line-height: 16px;
+}
+
+/*jdthickbox*/
+.thickframe {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10000000;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	border: 0;
+	filter: alpha(opacity = 0);
+	opacity: 0;
+}
+
+.thickdiv {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10000001;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	border: 0;
+	filter: alpha(opacity = 15);
+	opacity: 0.15;
+}
+
+.thickbox {
+	position: absolute;
+	z-index: 10000002;
+	overflow: hidden;
+	padding: 0 4px 4px 0;
+	background: url(i/bg_shadow.gif) no-repeat -4px 0;
+	-moz-border-radius: 0 20px 6px 20px;
+	-webkit-border-radius: 0 20px 6px 20px;
+}
+
+.thicktitle {
+	height: 27px;
+	padding: 0 10px;
+	border: solid #C4C4C4;
+	border-width: 1px 1px 0;
+	background: #F3F3F3;
+	line-height: 27px;
+	font-family: arial, "ËÎÌå";
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+	-moz-border-radius: 4px 4px 0 0;
+	-webkit-border-radius: 4px 4px 0 0;
+}
+

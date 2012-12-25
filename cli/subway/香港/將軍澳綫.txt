@@ -1,0 +1,5 @@
+{{BS4||||utKBHFa|15 min|[[康城站 (香港)|康城]]|}}
+{{BS4|||utKBHFa|utSTR|15 min|[[寶琳站|寶琳]]|}}
+{{BS4|||utBHF|utSTR|13 min|[[坑口站 (香港)|坑口]]|}}
+{{BS4|||utBHF||11 min|[[將軍澳站|將軍澳]]|}}
+{{BS4||utBHF|utBHF||2 min|[[鰂魚涌站|'''鰂魚涌''']] {{hk-mtr icon|港}}|O2=HUB84|O3=HUB82}}

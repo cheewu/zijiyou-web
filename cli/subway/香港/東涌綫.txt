@@ -1,0 +1,7 @@
+{{BS5|AETRAM|utKBHFa|BOOT|||27 min|[[東涌站 (東涌綫)|'''東涌''']]|&lt;div style{{=}}"float:right">[[東涌站 (昂坪360)|東涌纜車站]]、[[東涌新碼頭]]&lt;/div>}}
+{{BS5||uhBHF|O2=HUB84|uhBHF|O3=HUB82|||13 min|[[青衣站|'''青衣''']] {{hk-mtr icon|機}}}}
+{{BS5||uSTR|uBHF|tCONTf|uLUECKE|5 min|[[奧運站|奧運]]|&lt;div style{{=}}"float:right">{{RoutemapRoute|Ricon=d|[[西鐵綫]]往[[紅磡站|紅磡]]|enclosed=no|}}&lt;/div>}}
+{{BS5|HELI|utBHF|O2=HUB84|utBHF|O3=HUB82||uLUECKE|3 min|[[九龍站|'''九龍''']] {{hk-mtr icon|機}}|西九龍直升機場}}
+{{BS5||utKBHFe|O2=HUB84|utKBHFxe|O3=HUB82|BOOT|uLUECKE|0 min|[[香港站|'''香港''']] {{hk-mtr icon|機}}|[[中環碼頭]]}}
+{{BS5||utKBHFl|uLUECKEq|O2=HUB81|uLUECKEq|utSTRrf||[[中環站|'''中環''']]||&lt;div style{{=}}"float:right">{{RoutemapRoute|Ricon=U|[[荃灣綫]]往[[荃灣站|荃灣]]|enclosed=no|}}&lt;/div>}}
+{{BS5|utCONTr|utBHFq|O2=HUB83|utCONTl||||||&lt;div style{{=}}"float:right">{{RoutemapRoute|Licon=l|Ricon=r|[[港島綫]]往[[上環站|上環]]及[[柴灣站|柴灣]]|enclosed=no|}}&lt;/div>}}

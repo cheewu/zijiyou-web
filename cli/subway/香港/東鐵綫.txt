@@ -1,0 +1,16 @@
+{{BS5||WASSERq|WASSER|BHF||41 min|[[羅湖站 (香港)|羅湖]]|||O3=WASSERrf}}
+{{BS5||hKBHFa|WASSERlf|WBRÜCKE|WASSERq|43 min|[[落馬洲站|落馬洲]]||O3=WASSER}}&lt;small>&lt;div style="float:right">[[梧桐河]]&lt;/div>&lt;/small>
+{{BS5||etBHF|WASSER|KRWg+l|KRWr||[[古洞站|古洞]]（建議中）|[[北環綫]]轉車站（建議中）}}
+{{BS5|||BHF|||36 min|[[上水站|上水]]}}
+{{BS5|||BHF|||34 min|[[粉嶺站|粉嶺]]|}}
+{{BS5|||BRÜCKEa|||28 min|[[太和站|太和]]|||O3=BHF}}
+{{BS5|||hBHF|WASSER||26 min|[[大埔墟站|大埔墟]]|||}}
+{{BS5|||eBHF||||[[白石角站|白石角]]|（建議中）}}
+{{BS5|||DAMM|BOOT||20 min|[[大學站|大學]]||[[中文大學]]、[[馬料水]]碼頭|O3=BHF}}
+{{BS5|||BHF|STR|STR|17 min|[[火炭站|火炭]]}}
+{{BS5|||BHF|WASSER||14 min|[[沙田站|沙田]]|||}}
+{{BS5|||DAMM|exhBHF|||[[顯徑站|顯徑]]||}}
+{{BS5|||BHF||exLUECKE|7 min|[[九龍塘站|'''九龍塘''']] {{hk-mtr icon|觀}}|O3=HUB84|O4=HUB64}}
+{{BS5||utCONTr|mKRZt|utBHFq|exLUECKE||||{{RoutemapRoute|Licon=L|Ricon=R||[[觀塘綫]]往[[油麻地站|油麻地]]及[[調景嶺站|調景嶺]]|enclosed=no}}|O4=HUB83|O5=utCONTl}}
+{{BS5|||hBHF||exLUECKE|4 min|[[旺角東站|旺角東]]||}}
+{{BS5|TRAIN|CPICla|CPICre|exBHF|extBHF|0 min|[[紅磡站|'''紅磡''']] {{hk-mtr icon|西}}||[[城際直通車]]總站|O2=HUB84|O3=HUB25|O4=HUB25|O5=HUB82}}

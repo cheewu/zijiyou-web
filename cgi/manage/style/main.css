@@ -1,0 +1,57 @@
+/* common */
+hr{background-color:black;}
+/* end common */
+
+/* common header */
+#common_header {text-align:left;width:960px;margin:0 auto;font-family:Consolas, Microsoft YaHei, monospace;font-size:14px;margin-bottom:5px;background-color:#ebebeb;}
+#common_header h1 {padding-top:15px;}
+#wrapper {text-align:left;width:960px;margin:0 auto;font-family:Consolas, Microsoft YaHei, monospace;font-size:14px;background-color:#ebebeb;}
+.input_text {width:49%;display:inline-block;height:50px;line-height:50px;}
+.input_text *, .map_area *{display:inline-block;}
+.input_text ._input_text_name{text-align:right;width:25%;vertical-align:middle;line-height:14px;word-wrap:break-word;overflow:hidden;}
+.input_text input{width:70%;}
+
+.select {width:500px;margin:0 auto;padding:20px 0;}
+.select select{width:20%;}
+
+#address { width: 700px; }
+
+/* textarea */
+.textarea {display:table-cell;height:500px;width:700px;vertical-align:middle;text-align:center;padding-left:50px;}
+.textarea_wrapper{width:100%;} 
+.textarea span{float:left;width:19%;}
+.textarea textarea{width:80%;height:70%;text-align:left;}
+
+/* add_botton */
+.add_botton {width:800px;margin:0 auto;text-align:right;padding:15px 0;}
+.add_botton input{width:100px;height:30px;}
+
+.map_area {width:800px;margin:20px auto 10px auto;}
+#google_map {width:80%;height:500px;margin:0 auto;margin:0 auto 20px auto;}
+
+/* pic_upload_iframe */
+#pic_upload_iframe {width:100%;overflow: hidden;margin:20px 0;}
+
+#main_submit {width:100px;height:50px;margin:20px auto;display:block;}
+
+#search_box {text-align:right;height:50px;line-height:50px;}
+
+.lists_wrapper table{table-layout:fixed;text-align:center;word-break: break-all;}
+.lists_wrapper .headline {background-color:#989898;}
+.lists_wrapper td{border:1px solid black;}
+
+/* nav */
+.nav {width:90%;margin:0 auto;overflow:hidden;}
+._nav_box {position:relative;left:-1px;font-size:0px;}
+._nav_item {width:120px;height:100%;line-height:30px;text-align:center;display:inline-block;border-left:black 1px solid;font-size:14px;}
+._nav_item:hover {background-color:black;color:white;cursor:pointer;text-decoration: none;}
+._nav_selected {background-color:black;color:white;}
+
+/* multi */
+.page { height:40px;line-height:40px;text-align:right;}
+.page a, .page strong { padding:2px 6px; border: 1px solid #CDCDCD; margin-right: 5px; background: #FFF; font-style: normal; }
+
+/* correlation */
+.correlation { width:90%;margin:0 auto;overflow:hidden; }
+.correlation_field { border:2px solid black; margin:10px; padding:20px; }
+.correlation_checkbox { float:left; padding-right:10px; width:255px;}

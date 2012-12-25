@@ -1,0 +1,7 @@
+{{BS4||uKBHFa|||28min|[[博覽館站|博覽館]]||[[亞洲國際博覽館]]}}
+{{BS4|FLUG|uhBHF|BOOT||24min|[[機場站 (港鐵)|機場]]|&lt;div style{{=}}"float:right">[[香港國際機場]]、[[海天客運碼頭]]&lt;/div>}}
+{{BS4||uhBHF|O2=HUB84|uhBHF|O3=HUB82||11min|[[青衣站|'''青衣''']] {{hk-mtr icon|東涌}}}}
+{{BS4|HELI|utBHF|O2=HUB84|utBHF|O3=HUB82|exLDER|3min|[[九龍站|'''九龍''']] {{hk-mtr icon|東涌}}|西九龍直升機場}}
+{{BS4||utKBHFe|O2=HUB84|utKBHFe|O3=HUB82|BOOT|0min|[[香港站|'''香港''']] {{hk-mtr icon|東涌}}|[[中環碼頭]]}}
+{{BS4|||utKBHFl|O3=HUB81|utCONTl||[[中環站|'''中環''']]||{{RoutemapRoute|Ricon=r|[[荃灣綫]]往[[荃灣站|荃灣]]|enclosed=no|}}}}
+{{BS4||utCONTr|utBHFq|O3=HUB83|utCONTl|||&lt;div style{{=}}"float:right">{{RoutemapRoute|Licon=l|Ricon=r|[[港島綫]]往[[上環站|上環]]及[[柴灣站|柴灣]]|enclosed=no|}}&lt;/div>}}

@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+body {
+	width:100%;
+	height:100%;
+	min-width:960px;
+	text-align:left;
+	margin:0 auto;
+}
+
+#wrapper {width:100%;height:100%;padding-top:35px;}
+#tool_bar {width:100%;height:33px;position:fixed;margin:0 auto;background:black;color:white;z-index:100;}
+.tool_box {width:1000px;height:100%;margin:0 auto;}
+.tool_manage {height:33px;padding-left:30px;}
+.tool_manage img {width:33px;height:33px;}
+.tool_manage span {display:inline-block;color:white;font-size:14px;font-weight:bold;height:33px;line-height:33px;position:relative;}
+.tool_manage a {text-decoration:none;}
+.collection_count {padding-left:5px;display:table;}
+.collection_count a {display:table-cell;height:100%;vertical-align:middle;}
+.collection_count span {width:20px;height:13px;line-height:13px;background-color:white;color:black;border-radius:7px;border:2px white solid;font-size:10px;display:table-cell;text-align:center;vertical-align:middle;}
+.collection_count span:hover {background-color:black;color:white;}
+
+/* 收藏打印页 */
+#wrapper_print #wrapper {padding-top:10px;}
+#main_print {width:960px;margin:0 auto;}
+#main_print hr {background:#ebebeb;}
+
+#main_left {width:30%;height:100%;background:yellow;}
+
+.left_tree .tree_mother {font-size:18px;font-weight:bold;display:inline-block;}
+.left_tree .hit_area {width:30px;height:14px;background:transparent url("/images/arrow_right.gif") no-repeat top;display:inline-block;cursor:pointer;}
+.left_tree .expand {background:transparent url("/images/arrow_right.gif") no-repeat bottom;}
+.left_tree .tree_child {padding-left:40px;display:none;}
+.tree_child li {cursor:pointer;}
+
+#main_right {width:70%;background:green;height:100%;}
+
+
+
+
+
+/* default options */
+.fleft {float:left;}
+.fright {float:right;}
+.clear {clear:both;}

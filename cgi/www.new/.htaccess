@@ -1,0 +1,14 @@
+RewriteEngine On
+#RewriteRule cron.* -f [L]
+#RewriteCond %{REQUEST_FILENAME} 
+#RewriteCond %{REQUEST_FILENAME} !-f 
+#RewriteRule ^/template/(.*)$ /application/template/$1 [L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#rewritebase / 
+#RewriteCond %{REQUEST_FILENAME}
+#RewriteCond %{REQUEST_URI} !^template
+#RewriteRule ^/?template/(.*)$ /application/template/$1 [L,C]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php/_path=$1 [L,C]

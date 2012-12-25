@@ -1,0 +1,378 @@
+@CHARSET "UTF-8";
+/*----------------------------------------------------------------------------*\
+ *                              Common Style                                                
+\*----------------------------------------------------------------------------*/
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333;
+  background-color: whiteSmoke;
+  overflow-y: scroll;
+}
+
+#main {
+  background-color: white;
+  width: 960px; margin: 0 auto;
+}
+#common-header #nav-search-field {
+  width: 30px;
+}
+/*----------------------------------------------------------------------------*\
+ *                              Canvas Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas .pagination {
+  text-align:right;
+}
+/*----------------------------------------------------------------------------*\
+ *                       Canvas.list Common Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.list table {
+  table-layout: fixed;
+  white-space: nowrap;
+}
+#common-canvas.list table .table-cell {
+  display: block;
+  overflow-x: hidden;
+}
+#common-canvas.list .list-link {
+  width: 75px; text-align:center;
+}
+#common-canvas.list .list-link a{
+  padding-right: 5px;
+}
+#common-canvas.list .list-handle {
+  width: 70px; text-align: center;
+}
+#common-canvas.list .list-handle span {
+  width: 15px;
+  display: inline-block;
+}
+#common-canvas.list .list-center {
+  width: 50px;
+  text-align: center;
+}
+/*----------------------------------------------------------------------------*\
+ *                       Canvas.list Region Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.region .list-area{
+  width: 10%;
+}
+
+#common-canvas.region .list-name {
+  width: 20%;
+}
+
+#common-canvas.region .list-englishName {
+  width: 120px;
+}
+
+#common-canvas.region .list-poiCnt {
+  width: 50px;
+}
+
+/*----------------------------------------------------------------------------*\
+ *                       Canvas.list POI Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.poi tr {
+  width: 70px;
+}
+
+#common-canvas.poi .list-name,
+#common-canvas.poi .list-area {
+  width: 80px;
+}
+
+#common-canvas.poi .list-wikititle {
+  text-align: center;
+  width: 100px;
+}
+
+#common-canvas.poi .list-ticket {
+  width: 90px;
+}
+
+#common-canvas.poi .list-englishName {
+  width: 100px;
+}
+
+#common-canvas.poi .list-link {
+  width: 40px;
+}
+#common-canvas.poi .list-rank {
+  text-align: center;
+  width: 40px;
+}
+
+/*----------------------------------------------------------------------------*\
+ *                       Canvas.list Subway Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.subway .list-regionName,
+#common-canvas.subway .list-name {
+  width: 30%;
+}
+
+#common-canvas.subway .list-lineId,
+#common-canvas.subway .list-stationCount {
+  width: 10%
+}
+	
+/*----------------------------------------------------------------------------*\
+ *                              Canvas.edit Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.edit .control-group {
+  display: inline-block;
+}
+#common-canvas.edit .submit-area {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#common-canvas.edit .input-append.map {
+  margin-left: 80px;
+}
+#common-canvas.edit #maps {
+  width: 800px;
+  margin: 20px auto 10px;
+  height: 500px;
+}
+#common-canvas.edit #maps img {
+  max-width: none;
+}
+#common-canvas.edit .select-category {
+  margin-left: 80px;
+}
+#common-canvas.edit .select-category span {
+  display: inline-block;
+  margin-right: 20px;
+}
+#common-canvas.edit .textarea-wiki {
+  width: auto;
+  margin: 10px 80px;
+  text-align: center;
+}
+#common-canvas.edit .textarea-wiki p {
+  text-align: left;
+}
+#common-canvas.edit .textarea-wiki textarea {
+  text-align: left;
+  width: 98%;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+/*----------------------------------------------------------------------------*\
+ *                           Canvas.edit Subway Style                                                
+\*----------------------------------------------------------------------------*/
+#common-canvas.edit.subway .pool-station,
+#common-canvas.edit.subway .subline-station,
+#common-canvas.edit.subway .subline-station .direction
+{
+  margin:5px 10px;
+  background-color: #EEE;
+  text-align: center;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  min-height: 40px;
+  line-height: 40px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+#common-canvas.edit.subway .pool-station,
+#common-canvas.edit.subway .subline-station .station-name {
+  overflow: hidden;
+}
+
+#common-canvas.edit.subway .subline-station .direction {
+  margin: 0;
+  position: absolute;
+  width: 15px;
+  left: 0px;
+  border-right: 3px white solid;
+  -webkit-border-radius: 3px 0 0 3px;
+     -moz-border-radius: 3px 0 0 3px;
+          border-radius: 3px 0 0 3px;
+}
+
+#common-canvas.edit.subway li a {
+  overflow: hidden;
+  width: 70px;
+}
+
+#common-canvas.edit.subway .handle-hover {
+  position: relative;
+}
+
+#common-canvas.edit.subway #handle {
+  position: absolute;
+  line-height: 0;
+  width: 20px;
+  text-align: right;
+  padding-right: 30px;
+}
+
+#common-canvas.edit.subway #change-direction {
+  position: absolute;
+  width: 20px;
+  text-align: left;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+#common-canvas.edit.subway .editing {
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  color: #3A87AD;
+  background-color: #D9EDF7;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px
+}
+
+#common-canvas.edit.subway #handle a {
+  display: block;
+}
+#common-canvas.edit.subway #change-direction:hover, 
+#common-canvas.edit.subway .pool-station:hover {
+  cursor: pointer;
+}
+
+#common-canvas.edit.subway .subline-station div {
+  display: inline-block;
+}
+
+#common-canvas.edit.subway .subline-station .station-order {
+  width: 70px;
+}
+	
+#common-canvas.edit.subway .subline-station .station-name {
+  width: 220px;
+  white-space: nowrap;
+}
+
+#common-canvas.edit.subway .pool-station {
+  float: left;
+  width: 70px;
+  height: 40px;
+}
+
+#common-canvas.edit.subway .station-pool {
+  border-right: 1px #EEE solid;
+}
+
+#common-canvas.edit.subway .tab-pane {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#common-canvas.edit.subway #subline-name-box a {
+}
+
+#common-canvas.edit.subway .subline-station  {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  text-align:center;
+}
+
+#common-canvas.edit.subway .subline .station .span3 {
+  border-right: 1px white solid;
+}
+
+#common-canvas.edit.subway .subline .input-append {
+  text-align: right;
+}
+
+#common-canvas.edit.subway #add-subline {
+  padding-left: 20px;
+}
+
+/*----------------------------------------------------------------------------*\
+ *                          Canvas.edit  POI                                               
+\*----------------------------------------------------------------------------*/
+#common-canvas.poi .form-inline.area {
+  margin-left: 130px;
+}
+#common-canvas.poi .form-inline.area span {
+  margin-right: 15px;
+}
+#common-canvas.poi .nearby-poi {
+  width: auto;
+  position: relative;
+  margin: 15px 80px;
+  padding: 39px 189px 14px;
+  background-color: white;
+  border: 1px solid #DDD;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+#common-canvas.poi .nearby-poi::after {
+  content: "附近3km的POI";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: whiteSmoke;
+  border: 1px solid #DDD;
+  color: #9DA0A4;
+  -webkit-border-radius: 4px 0 4px 0;
+     -moz-border-radius: 4px 0 4px 0;
+          border-radius: 4px 0 4px 0;
+}
+#common-canvas.poi .nearby-poi .well {
+  text-align:center;
+}
+#common-canvas.poi .nearby-poi .well .close {
+  line-height: 15px;
+}
+
+/*----------------------------------------------------------------------------*\
+ *                              Footer Style                                                
+\*----------------------------------------------------------------------------*/
+#common-footer {
+  background-color: #EEE;
+  height: 60px;
+}
+#common-footer .container { width: 940px; }
+#common-footer .container .credit { margin: 20px 0; }
+
+/*----------------------------------------------------------------------------*\
+ *                              Index Style                                                
+\*----------------------------------------------------------------------------*/
+.login .container {
+  width: 350px; magin: 0 auto;
+}
+.login .form-signin {
+  max-width: 300px;
+  padding: 19px 29px 29px;
+  margin: 0 auto 20px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+          box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+.login .form-signin .form-signin-heading,
+.login .form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.login .form-signin input[type="text"],
+.login .form-signin input[type="password"] {
+  font-size: 16px;
+  height: auto;
+  margin-bottom: 15px;
+  padding: 7px 9px;
+}
+.login .alert-error {
+  text-align: center;
+  letter-spacing: 2px; 
+}
+
+	
